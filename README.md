@@ -57,3 +57,7 @@ For all those have issues like not working in specific browser or space(' ') cha
 P.S. ng-model attribute is required to use that directive
 
     <input type="text" name="txtAccountNumber" numbers-only ng-model="account">
+      
+#### After user input through keystrokes:
+
+![screenshot_5](https://cloud.githubusercontent.com/assets/10474169/19459612/c44420c0-9499-11e6-9a60-60bc0f7065a7.png)
